@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "barerexpo",
+    "slug": "barerexpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "barerexpo"
+}
